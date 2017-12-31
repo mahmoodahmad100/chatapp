@@ -1,1 +1,2 @@
-# chat appsimple chat app done using angular
+# chat app
+simple chat app done using angular
